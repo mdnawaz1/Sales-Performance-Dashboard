@@ -41,4 +41,31 @@ Average Discount – Pricing strategy insights
 
 <a href="https://github.com/mdnawaz1/Sales-Performance-Dashboard/blob/main/4.png">Images4</a>
 
+## 📊 Sample Data
+The dashboard includes a comprehensive dataset with:
+
+10+ order attributes (Order ID, Date, Segment, Category, etc.)
+
+Multiple years of data (2023-2026)
+
+Regional and segment diversity
+
+Realistic sales and profit figures
+
+Various discount scenarios
+## 🎯 Use Cases
+Sales Performance Review – Monthly/quarterly business reviews
+
+Product Category Analysis – Identify best and worst performers
+
+Regional Performance Tracking – Geographic sales distribution
+
+Discount Strategy Evaluation – Optimize pricing decisions
+
+Executive Dashboard – High-level business overview
+
+Data Exploration – Interactive analysis of sales data
+
+
+
 
