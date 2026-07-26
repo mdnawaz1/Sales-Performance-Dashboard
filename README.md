@@ -32,3 +32,5 @@ Profit Margin – Percentage-based performance metric
 Total Quantity – Order volume analysis
 
 Average Discount – Pricing strategy insights
+## Dashboard Images
+<a href="https://github.com/mdnawaz1/Sales-Performance-Dashboard/blob/main/1.png">Images</a>
