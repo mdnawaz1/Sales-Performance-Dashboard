@@ -16,6 +16,16 @@ Reset functionality to clear all filters at once
 Total Sales – Revenue tracking with sparklines
 
 Total Profit – Profitability monitoring with color-coded trends
+## 💡 Intelligent Insights
+Auto-generated analysis highlighting key business patterns
+
+Leading regions with performance metrics
+
+Category profit concentration analysis
+
+Discount impact on profitability
+
+Loss-making sub-categories identification
 
 Profit Margin – Percentage-based performance metric
 
