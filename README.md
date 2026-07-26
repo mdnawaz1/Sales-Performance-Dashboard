@@ -9,3 +9,13 @@ Interactive filter chips for Year, Month, Region, Segment, and Category
 Live data updates with instant visual feedback
 
 Reset functionality to clear all filters at once
+## 📈 Key Performance Indicators (KPIs)
+Total Sales – Revenue tracking with sparklines
+
+Total Profit – Profitability monitoring with color-coded trends
+
+Profit Margin – Percentage-based performance metric
+
+Total Quantity – Order volume analysis
+
+Average Discount – Pricing strategy insights
