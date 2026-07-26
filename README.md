@@ -19,3 +19,5 @@ Profit Margin – Percentage-based performance metric
 Total Quantity – Order volume analysis
 
 Average Discount – Pricing strategy insights
+## DataSet Used
+- <a hred="https://github.com/mdnawaz1/Sales-Performance-Dashboard/blob/main/(5b)%20Sales%20Performance%20Dashboard.xlsx">DataSet</a>
