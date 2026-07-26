@@ -33,8 +33,12 @@ Total Quantity – Order volume analysis
 
 Average Discount – Pricing strategy insights
 ## Dashboard Images
-<a href="https://github.com/mdnawaz1/Sales-Performance-Dashboard/blob/main/1.png">Images</a>
-<a href="https://github.com/mdnawaz1/Sales-Performance-Dashboard/blob/main/2.png">Images</a>
-<a href="https://github.com/mdnawaz1/Sales-Performance-Dashboard/blob/main/3.png">Images</a>
-<a href="https://github.com/mdnawaz1/Sales-Performance-Dashboard/blob/main/4.png">Images</a>
+<a href="https://github.com/mdnawaz1/Sales-Performance-Dashboard/blob/main/1.png">Images1</a>
+
+<a href="https://github.com/mdnawaz1/Sales-Performance-Dashboard/blob/main/2.png">Images2</a>
+
+<a href="https://github.com/mdnawaz1/Sales-Performance-Dashboard/blob/main/3.png">Images3</a>
+
+<a href="https://github.com/mdnawaz1/Sales-Performance-Dashboard/blob/main/4.png">Images4</a>
+
 
